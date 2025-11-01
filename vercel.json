@@ -1,5 +1,5 @@
 {
-  "crons": [
+  "ccrons": [
     {
       "path": "/api/cron/cleanup-payments",
       "schedule": "*/10 * * * *"
